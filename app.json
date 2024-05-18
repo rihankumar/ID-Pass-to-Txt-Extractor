@@ -13,23 +13,23 @@
     "env": {
         "API_ID": {
             "description": "27498866",
-            "value": "true"
+            "value": "27498866"
         },
         "API_HASH": {
             "description": "96fbb6ad2e11ab04e83ca09ef3f42455",
-            "value": "true"
+            "value": "96fbb6ad2e11ab04e83ca09ef3f42455"
         },
         "BOT_TOKEN": {
             "description": "6528420500:AAH0-q4m1mytX1rLdG2x-qJkPBdofzHo3fc",
-            "value": "true"
+            "value": "6528420500:AAH0-q4m1mytX1rLdG2x-qJkPBdofzHo3fc"
         },
         "OWNER_ID": {
             "description": "6488911325",
-            "value": "true"
+            "value": "6488911325"
         },
         "SUDO_USERS": {
             "description": "6488911325",
-            "value": "true"
+            "value": "6488911325"
         }
     },
     "addons": [],
